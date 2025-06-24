@@ -1,3 +1,9 @@
+
+![dashboard](https://github.com/user-attachments/assets/8e2188ab-134a-4a7e-8f58-83bf2e388236)
+
+
+https://github.com/user-attachments/assets/c6f8dc5e-81b4-4de7-8e74-0725d0da8c2c
+
 # call-centre-dashboard
 Excel project analyzing call center performance using dashboards and KPIs.
 📊 Call Centre Dashboard – Excel Project
